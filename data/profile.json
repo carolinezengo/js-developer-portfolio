@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://github.com/carolinezengo/js-developer-portfolio/blob/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "C#",
-        "logo": "https://github.com/carolinezengo/js-developer-portfolio/blob/main/data/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/csharp.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/carolinezengo/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "React",
@@ -25,11 +25,11 @@
       },
       {
         "name": "Mongodb",
-        "logo": "https://github.com/carolinezengo/js-developer-portfolio/blob/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
         "name": "SqlServer",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/sql-server.png"
       }
     ],
     "softSkills": [
